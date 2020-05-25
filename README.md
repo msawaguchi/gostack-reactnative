@@ -4,14 +4,13 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/msawaguchi/RocketShoes#rocketshoes_about">About</a> • <a href="https://github.com/msawaguchi/RocketShoes#rocketshoes_techs">Technologies</a> • <a href="https://github.com/msawaguchi/RocketShoes#rocketshoes_execute">Installation</a>
     <h2>Simple FlatList React Native App </h2>
 </p>
 
 ## :pushpin: About
 <p id="rocketshoes_about">
   Simple React Native App using FlatList built during the Bootcamp GoStack from RocketSeat. <br></br>
-  The features are basically to list repositories from API (which you can access by <a href="https://github.com/msawaguchi/gostack-nodejs">clicking here </a>), and to like it by clicking the button inside of the cards.
+  The features are basically to list repositories from API (which you can access by <a href="https://github.com/msawaguchi/gostack-nodejs">clicking here</a>), and to like it by clicking the button inside of the cards.
 </p>
 
 ## :pushpin: Built with
