@@ -1,6 +1,9 @@
 
 <p align="center">
-  <img height="450" src="http://sawastudio.me/fi44/gifrn1.gif">
+  <img width="200" src="http://sawastudio.me/fi44/gostack.png">
+</p>
+<p align="center">
+  <img src="http://sawastudio.me/fi44/repositories-git.png">
 </p>
 
 <p align="center">
@@ -22,7 +25,7 @@
 
 ## :pushpin: Installation
 <p>
-    Make sure the API is running. 
+  Make sure your have <a href="https://nodejs.org/en/download/">Node.js</a> installed on your computer and the API is running. 
     You can clone the API and read how to install it by <a href="https://github.com/msawaguchi/gostack-nodejs">clicking here</a>.
 </p>
 
@@ -33,7 +36,7 @@
 
 
 <p>
-    Start Metro Bundler
+    After entering inside the project directory, start Metro Bundler:
 </p>
 
  `yarn`
