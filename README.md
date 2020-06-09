@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <h2>Simple FlatList React Native App </h2>
+    <h2 align="center">Simple FlatList React Native App </h2>
 </p>
 
 ## :pushpin: About
